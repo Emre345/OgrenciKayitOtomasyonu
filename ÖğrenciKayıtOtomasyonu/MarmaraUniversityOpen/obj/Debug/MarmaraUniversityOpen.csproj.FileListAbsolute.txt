@@ -1,0 +1,42 @@
+c:\users\emre\documents\visual studio 2012\Projects\MarmaraUniversityOpen\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.exe.config
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.exe.config
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.exe
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.pdb
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form1.resources
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Properties.Resources.resources
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.exe
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.pdb
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form2.resources
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form3.resources
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form4.resources
+C:\Users\Emre\Desktop\MarmaraUniversityOpen\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form5.resources
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.exe.config
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.exe
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.pdb
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.exe
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.pdb
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form1.resources
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form2.resources
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form3.resources
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form4.resources
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form5.resources
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Properties.Resources.resources
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Programlar\Windows Form Application\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form6.resources
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.exe.config
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.exe
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.pdb
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.exe
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\bin\Debug\MarmaraUniversityOpen.pdb
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form1.resources
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form2.resources
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form3.resources
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form4.resources
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form5.resources
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Properties.Resources.resources
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\MarmaraUniversityÖğrenciKayıt\MarmaraUniversityOpen\obj\Debug\MarmaraUniversityOpen.Form6.resources
